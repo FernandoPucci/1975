@@ -14,10 +14,10 @@ Dominios pobres onde as classes apenas mapeiam as entidades do banco de dados e 
 ---
 
 ## CONTEXTOS DELIMITADOS
- São __pequenos pedaços__ do sistema a ser criado. 
- __Batch Size__ : Tamanho da mudança.
- Quando menor o __batch size__ mais fácil a mudança. Exemplo de microsserviços. 
+ São __pequenos pedaços__ do sistema a ser criado.  
+ __Batch Size__ : Tamanho da mudança. 
+ Quando menor o __batch size__ mais fácil a mudança. Exemplo de microsserviços.  
 
-O exemplo do curso utiliza o **Contexto de Pagamento**, ou seja, pode facilmente ser modelado para um microsserviço de __**Pagamento**__.
+O exemplo do curso utiliza o **Contexto de Pagamento**, ou seja, pode facilmente ser modelado para um microsserviço de __**Pagamento**__. 
 
  O Conceito de **Contexto Limitado** não exige que o modelo desenhado seja obrigatóriamente aplicado a Microsserviços.
